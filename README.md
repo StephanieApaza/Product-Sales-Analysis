@@ -19,15 +19,15 @@ This allows us to compare fairly across methods, balancing revenue with the time
 
 ## ✅ Key Results
 - 📞 Calls → $1.59 per minute
-- 📧 Emails + Calls → $18.38 per minute
+- 📧 Emails and Calls → $18.38 per minute
 - ✉️ Emails → $19.40 per minute
 
-➡️ Emails showed the highest efficiency, though assumptions on preparation time highlight the need for further data collection.
+➡️ Emails and Calls as the primary sales method, this method shows a strong positive impact on revenue, a clear growth trend over time, and balances efficiency.
 
 ## 🧭 Recommendations
-- Prioritize Email as the main sales method.
-- Use Calls strategically with high-value customers.
-
+- Monitor efficiency using revenue per minute of effort. This metric highlights that Email and Call delivers high returns relative to the time invested.
+- Leverage the Email method as a complementary strategy. While slightly less efficient than Email and Call, Email alone reaches the largest number of customers, generates the most site visits, and leads to the highest number of products sold.
+  
 ## ⚡Built with
 - Python
 - Pandas
