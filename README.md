@@ -13,7 +13,8 @@ The analysis answers the following questions:
 
 ## 📐 Business Metric
 To evaluate efficiency, I created a custom metric:
-**💡 Revenue per Minute of Effort**
+
+**💡 Revenue per Minute of Effort**:
 This allows us to compare fairly across methods, balancing revenue with the time invested.
 
 ## ✅ Key Results
@@ -27,3 +28,9 @@ This allows us to compare fairly across methods, balancing revenue with the time
 - Prioritize Email as the main sales method.
 - Use Calls strategically with high-value customers.
 
+## ⚡Built with
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
