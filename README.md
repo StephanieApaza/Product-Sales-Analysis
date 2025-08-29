@@ -1,4 +1,4 @@
-# Sales Methods Analysis 📊
+# Sales Methods Analysis 
 ## 📌 Project Overview
 This project analyzes the effectiveness of different sales methods for a new product line.
 The main objective is to identify which method maximizes revenue generation while optimizing time and resources.
